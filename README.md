@@ -2,17 +2,18 @@
 
 Website layout: 
 WELCOME: 
-  Welcome to central
-  Welcome, [user] 
-  ... 
+
+	a) Welcome to central
+  	b) Welcome, [user] 
+  	c) ... 
 
 CONTENT: 
 
-  Dynamic Page changing JSON etc... 
+  	a) Dynamic Page changing JSON etc... 
 
 GLOSSARY: 
 
-  Access page for all content, break the 4th wall. 
+  	c) Access page for all content, break the 4th wall. 
 
 
 0] Template 
