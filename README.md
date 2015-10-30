@@ -17,7 +17,7 @@ GLOSSARY:
 
 0] Template 
 
-  a) JSON
+    a) JSON
   
   b) manipulate 
   
