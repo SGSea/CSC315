@@ -17,35 +17,35 @@ GLOSSARY:
 
 0] Template 
 
-    a) JSON
+	a) JSON
   
-  b) manipulate 
+    b) manipulate 
   
-  c) create divs
+    c) create divs
   
-  d) add JSON to divs
+    d) add JSON to divs
   
-  e) transition from divs
+    e) transition from divs
 
 1] Welcome page
+
+	a) "welcome to central"
   
-  a) "welcome to central"
+  	b) add user entry field
   
-  b) add user entry field
+  	c) store variable across pages
   
-  c) store variable across pages
+  	d) "attempting convergence"
   
-  d) "attempting convergence"
+  	e) "convergence failed"
   
-  e) "convergence failed"
-  
-  f) transition to 'Content' 
+  	f) transition to 'Content' 
   
 2] Template work 
   
-  a) Randomized path 
+  	a) Randomized path 
   
-  b) Cache/cookie work
+  	b) Cache/cookie work
   
-  c) transition to endpage
+  	c) transition to endpage
 
