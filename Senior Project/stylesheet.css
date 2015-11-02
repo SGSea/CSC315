@@ -1,6 +1,6 @@
-div {
-    height: 100px;
-    width: 100px;
-    background-color: #FA6900;
-    border-radius: 5px;
+.divs > div{
+    position:absolute;
+    top:30px;
+    background:#eee;
+    padding:50px;
 }
