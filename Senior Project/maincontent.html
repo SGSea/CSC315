@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
     <head>
-    	<title>Result</title>
+    	<title>Main Content Page</title>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
         <link rel='stylesheet' type='text/css' href='stylesheet.css'/>
         <script type='text/javascript' src='json.js'> </script>
         <script type='text/javascript' src='script.js'></script>
-        
         
         
 	</head>
@@ -22,7 +21,16 @@
         <div id="content7"></div>  
         <div id="content8"></div>  
         <div id="content9">
-        <img src = https://upload.wikimedia.org/wikipedia/commons/1/16/Amsterdam%2C_Sint_Nicolaasbasiliek%2C_Doopkapel%2C_05.JPG></div>  
+        <img src = https://upload.wikimedia.org/wikipedia/commons/1/16/Amsterdam%2C_Sint_Nicolaasbasiliek%2C_Doopkapel%2C_05.JPG></div> 
+        <div id="content10"> Press enter to continue!
+        <script>
+            $(document).keypress(function(e) {
+                if(e.which == 13) {
+                window.location = 'http://127.0.0.1:8887/Glossary.html';
+                    }
+            });
+        </script></div>
+        
         
 </div>
 
